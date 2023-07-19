@@ -1,19 +1,40 @@
-{
-  "foto": "https://img.freepik.com/free-photo/portrait-of-white-man-isolated_53876-40306.jpg?w=900&t=st=1689782504~exp=1689783104~hmac=724a0324d1752fd6449f99eac1888f2b384c451b75fedec10eec2767aa86a3d7",
-  "firstName": "Rack",
-  "lastName": "Jackon",
-  "gender": "man",
-  "age": 24,
-  "address":
-    {
-       "streetAddress": "Walk Street, 123",
-       "city": "San Jone",
-       "state": "CA",
-       "postalCode": "394221"
-    },
-  "phoneNumbers":
-    {
-        "type": "home",
-        "number": "7383627627"
-    }
-}
+[
+  {
+    "foto": "https://img.freepik.com/free-photo/portrait-of-white-man-isolated_53876-40306.jpg?w=900&t=st=1689782504~exp=1689783104~hmac=724a0324d1752fd6449f99eac1888f2b384c451b75fedec10eec2767aa86a3d7",
+    "firstName": "Rack",
+    "lastName": "Jackon",
+    "gender": "man",
+    "age": 24,
+    "address":
+      {
+        "streetAddress": "Walk Street, 123",
+        "city": "San Jone",
+        "state": "CA",
+        "postalCode": "394221"
+      },
+    "phoneNumbers":
+      {
+          "type": "home",
+          "number": "7383627627"
+      }
+  },
+  {
+    "foto": "https://img.freepik.com/free-photo/portrait-of-white-man-isolated_53876-40306.jpg?w=900&t=st=1689782504~exp=1689783104~hmac=724a0324d1752fd6449f99eac1888f2b384c451b75fedec10eec2767aa86a3d7",
+    "firstName": "Rack",
+    "lastName": "Jackon",
+    "gender": "man",
+    "age": 24,
+    "address":
+      {
+        "streetAddress": "Walk Street, 123",
+        "city": "San Jone",
+        "state": "CA",
+        "postalCode": "394221"
+      },
+    "phoneNumbers":
+      {
+          "type": "home",
+          "number": "7383627627"
+      }
+  }
+]
