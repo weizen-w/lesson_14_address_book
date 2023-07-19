@@ -19,11 +19,11 @@
       }
   },
   {
-    "foto": "https://img.freepik.com/free-photo/portrait-of-white-man-isolated_53876-40306.jpg?w=900&t=st=1689782504~exp=1689783104~hmac=724a0324d1752fd6449f99eac1888f2b384c451b75fedec10eec2767aa86a3d7",
-    "firstName": "Rack",
+    "foto": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?w=1060&t=st=1689784335~exp=1689784935~hmac=3f330c352c2b694345725bbb46a6d4db10610a5c5977a6b5a6694549c8b077f1",
+    "firstName": "Scarlett",
     "lastName": "Jackon",
-    "gender": "man",
-    "age": 24,
+    "gender": "woman",
+    "age": 21,
     "address":
       {
         "streetAddress": "Walk Street, 123",
@@ -33,8 +33,8 @@
       },
     "phoneNumbers":
       {
-          "type": "home",
-          "number": "7383627627"
+          "type": "privat",
+          "number": "4589731589"
       }
   }
 ]
