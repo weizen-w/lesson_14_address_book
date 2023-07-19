@@ -36,5 +36,62 @@
           "type": "privat",
           "number": "4589731589"
       }
+  },
+  {
+    "foto": "https://img.freepik.com/free-photo/portrait-of-positive-handsome-blond-man-with-beard-and-moustache-standing-with-crossed-hands-in-white-shirt-with-slight-smile-and-confident-expression_176420-17129.jpg?w=1380&t=st=1689789857~exp=1689790457~hmac=eb7f465db341dcdccba0a7edad990d214552e81bf9a0a1d28f61833e38ae0dd5",
+    "firstName": "Pohl",
+    "lastName": "Krarson",
+    "gender": "man",
+    "age": 26,
+    "address":
+      {
+        "streetAddress": "Garb Street, 14",
+        "city": "Los Santos",
+        "state": "California",
+        "postalCode": "265896"
+      },
+    "phoneNumbers":
+      {
+          "type": "privat",
+          "number": "1146682758"
+      }
+  },
+  {
+    "foto": "https://img.freepik.com/free-photo/portrait-of-beautiful-girl-with-short-ginger-hair-looks-with-happy-relaxed-expression_273609-30416.jpg?w=1380&t=st=1689789959~exp=1689790559~hmac=158aa48f671882cc108af2c0a8b7226750e6e715756c3c9bf5f4f1406bedd425",
+    "firstName": "Bambi",
+    "lastName": "Sorkii",
+    "gender": "woman",
+    "age": 29,
+    "address":
+      {
+        "streetAddress": "Mark Street, 54",
+        "city": "LA",
+        "state": "Soth Arga",
+        "postalCode": "478965"
+      },
+    "phoneNumbers":
+      {
+          "type": "home",
+          "number": "4512451293"
+      }
+  },
+  {
+    "foto": "https://img.freepik.com/free-photo/headshot-of-attractive-caucasian-female-looks-directly-at-camera_273609-28569.jpg?w=1380&t=st=1689790063~exp=1689790663~hmac=a96579d354d54a44aae5c451076f86d5a76bc965005b2f82388295bf0427d0fd",
+    "firstName": "Margo",
+    "lastName": "Fillip",
+    "gender": "woman",
+    "age": 21,
+    "address":
+      {
+        "streetAddress": "Carl Street, 87",
+        "city": "London",
+        "state": "GB",
+        "postalCode": "986547"
+      },
+    "phoneNumbers":
+      {
+          "type": "privat",
+          "number": "7478521253"
+      }
   }
 ]
